@@ -1,0 +1,53 @@
+Encuesta datos
+Formato de entrada:
+Excel
+Homogeneizar respuesta
+
+Formato de salida:
+por rango etario
+por provincia / regiones
+por ocupación
+
+los gráficos
+
+___________________________________
+Columnnas a descartar
+Marca temporal
+nombre
+email
+Si te interesa...
+___________________________________
+categorías de columnas
+edad: categorica
+lugar: object
+ocupacion: object
+mente (primero que se viene): object
+sabes (donde queda): categorica
+donde (queda): object
+tamano: categorico
+lo consideras: categorico
+conversacion(deberia ser): categorico
+temperatura(más alta): categorico
+animales(cuales): object
+protegidas: categorico
+
+ocupaciones
+docente: profe
+estudiante estudi
+empleado: emple emp atenc venta
+abogado: abog juri
+desocupada: desocup desemp
+economista invers
+periodista
+politologo: polit política político
+jubilado jubilada junilada
+administrativo: público admin gob muni internacionales proy prov
+tecnologia/ingeniera: programador desarrollador, software, fibra, analista ingen
+psicologia: psico terapia
+freelance independiente
+otro: musico, no responde, -
+
+
+
+
+
